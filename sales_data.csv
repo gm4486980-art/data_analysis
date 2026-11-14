@@ -1,0 +1,17 @@
+Date,Product,Category,City,Quantity,Unit_Price,Unit_Cost
+2026-01-05,Laptop,Electronics,Lucknow,2,52000,41000
+2026-01-08,Mobile,Electronics,Delhi,5,18000,13500
+2026-01-12,Desk Chair,Furniture,Lucknow,4,6500,4200
+2026-01-18,Headphones,Electronics,Kanpur,8,2200,1300
+2026-02-03,Laptop,Electronics,Delhi,3,52000,41000
+2026-02-09,Office Desk,Furniture,Lucknow,2,12000,8000
+2026-02-14,Mobile,Electronics,Kanpur,6,18000,13500
+2026-02-21,Notebook Pack,Stationery,Delhi,15,180,90
+2026-03-02,Headphones,Electronics,Lucknow,10,2200,1300
+2026-03-07,Office Desk,Furniture,Kanpur,3,12000,8000
+2026-03-15,Laptop,Electronics,Lucknow,1,52000,41000
+2026-03-22,Notebook Pack,Stationery,Lucknow,20,180,90
+2026-04-04,Mobile,Electronics,Delhi,4,18000,13500
+2026-04-11,Desk Chair,Furniture,Kanpur,5,6500,4200
+2026-04-19,Headphones,Electronics,Delhi,12,2200,1300
+2026-04-25,Office Desk,Furniture,Lucknow,2,12000,8000
